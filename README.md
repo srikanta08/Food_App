@@ -20,14 +20,13 @@ Vite
 
 Features
 
-Responsive
-Filter Functionality
-
-Dynamic Add and Remove Functionality
-Dynamic addition of Cards, Rating and Total Calculation
-Login and Sign up (Pop_Up)
-Delete Card functionality
-Checkout
+Responsive,
+Filter Functionality,
+Dynamic Add and Remove Functionality,
+Dynamic addition of Cards, Rating and Total Calculation,
+Login and Sign up (Pop_Up),
+Delete Card functionality,
+Checkout.
 
 Project Overview: Food_App Product Page
 
